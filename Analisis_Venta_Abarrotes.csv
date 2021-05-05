@@ -1,0 +1,370 @@
+Folio,Fecha de orden,Num. cliente,Nombre cliente,Ciudad,Estado,Vendedor,Region,Fecha de embarque,Empresa fletera,Forma de pago,Nombre del producto,Categoría,Precio unitario,Cantidad,Ingresos,Tarifa de envío
+1001,27/01/18,27,Empresa AA,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,29/01/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,49,"$9,604.00",$931.59
+1002,27/01/18,27,Empresa AA,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,29/01/18,Empresa de embarque B,Cheque,Ciruelas secas,Frutas secas,$49.00,47,"$2,303.00",$232.60
+1003,04/01/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/01/18,Empresa de embarque A,Tarjeta de crédito,Peras secas,Frutas secas,$420.00,69,"$28,980.00","$2,782.08"
+1004,04/01/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/01/18,Empresa de embarque A,Tarjeta de crédito,Manzanas secas,Frutas secas,$742.00,89,"$66,038.00","$6,273.61"
+1005,04/01/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/01/18,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,$49.00,11,$539.00,$52.28
+1006,12/01/18,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,14/01/18,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,$252.00,81,"$20,412.00","$1,979.96"
+1007,12/01/18,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,14/01/18,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,$644.00,44,"$28,336.00","$2,776.93"
+1008,08/01/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/01/18,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,$128.80,38,"$4,894.40",$504.12
+1009,04/01/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/01/18,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,$128.80,88,"$11,334.40","$1,110.77"
+1010,29/01/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/01/18,Empresa de embarque B,Cheque,Chocolate,Dulces,$178.50,94,"$16,779.00","$1,711.46"
+1011,03/01/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/01/18,Empresa de embarque B,Efectivo,Almejas,Sopas,$135.10,91,"$12,294.10","$1,290.88"
+1012,06/01/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/01/18,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,$560.00,32,"$17,920.00","$1,863.68"
+1013,28/01/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/01/18,Empresa de embarque C,Cheque,Café,Bebidas,$644.00,55,"$35,420.00","$3,542.00"
+1014,08/01/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/01/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,47,"$8,389.50",$864.12
+1015,10/01/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/01/18,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,$41.86,90,"$3,767.40",$388.04
+1016,07/01/18,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,24,"$15,456.00","$1,545.60"
+1017,10/01/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/01/18,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,$350.00,34,"$11,900.00","$1,130.50"
+1018,10/01/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/01/18,Empresa de embarque A,,Condimento cajún,Condimentos,$308.00,17,"$5,236.00",$502.66
+1019,10/01/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/01/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,44,"$5,667.20",$589.39
+1020,11/01/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,81,"$3,969.00",$384.99
+1021,11/01/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,49,"$2,051.14",$211.27
+1022,01/01/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,42,"$10,584.00","$1,058.40"
+1023,01/01/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,58,"$37,352.00","$3,772.55"
+1024,01/01/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,67,"$2,804.62",$280.46
+1025,28/01/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/01/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,100,"$13,510.00","$1,310.47"
+1026,28/01/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/01/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,63,"$16,228.80","$1,606.65"
+1027,09/01/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/01/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,57,"$15,561.00","$1,540.54"
+1028,09/01/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/01/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,81,"$39,463.20","$4,143.64"
+1029,06/01/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/01/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,71,"$13,916.00","$1,335.94"
+1030,08/02/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/02/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,32,"$17,920.00","$1,809.92"
+1031,03/02/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/02/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,63,"$8,820.00",$917.28
+1032,03/02/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/02/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,30,"$16,800.00","$1,680.00"
+1033,06/02/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/02/18,Empresa de embarque B,Tarjeta de crédito,,Tarifa de envío,,,,$602.00
+1034,28/02/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,02/03/18,Empresa de embarque C,Cheque,,Tarifa de envío,,,,$434.00
+1035,08/02/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/02/18,Empresa de embarque C,Cheque,,Tarifa de envío,,,,$644.00
+1036,10/02/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/02/18,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,$140.00,47,"$6,580.00",$684.32
+1038,10/02/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,$49.00,49,"$2,401.00",$230.50
+1039,11/02/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,$560.00,72,"$40,320.00","$3,991.68"
+1040,01/02/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,$257.60,13,"$3,348.80",$331.53
+1041,28/02/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,02/03/18,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,$644.00,32,"$20,608.00","$2,081.41"
+1042,09/02/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/02/18,Empresa de embarque A,Cheque,Almejas,Sopas,$135.10,27,"$3,647.70",$346.53
+1043,06/02/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/02/18,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,$178.50,71,"$12,673.50","$1,280.02"
+1044,08/02/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/02/18,Empresa de embarque B,Cheque,Chocolate,Dulces,$178.50,13,"$2,320.50",$220.45
+1045,25/02/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/02/18,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,$308.00,98,"$30,184.00","$2,867.48"
+1046,26/02/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/02/18,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,$350.00,21,"$7,350.00",$749.70
+1047,01/03/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,03/03/18,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,$546.00,26,"$14,196.00","$1,490.58"
+1048,06/02/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/02/18,Empresa de embarque C,Cheque,Peras secas,Frutas secas,$420.00,96,"$40,320.00","$4,152.96"
+1049,06/02/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/02/18,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,$742.00,16,"$11,872.00","$1,234.69"
+1050,04/02/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,,,,Pasta penne,Pasta,$532.00,96,"$51,072.00","$4,851.84"
+1051,03/02/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,,,,Té verde,Bebidas,$41.86,75,"$3,139.50",$323.37
+1052,09/03/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/03/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,55,"$15,015.00","$1,516.52"
+1053,09/03/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/03/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,11,"$5,359.20",$514.48
+1054,06/03/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/03/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,53,"$10,388.00","$1,007.64"
+1055,08/03/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/03/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,85,"$47,600.00","$4,998.00"
+1056,08/03/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/03/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,97,"$12,493.60","$1,274.35"
+1057,25/03/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/03/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,46,"$6,440.00",$650.44
+1058,26/03/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/03/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,97,"$28,993.30","$2,754.36"
+1059,26/03/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/03/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,97,"$13,104.70","$1,336.68"
+1060,26/03/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/03/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,65,"$16,744.00","$1,724.63"
+1061,29/03/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/03/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,72,"$14,112.00","$1,411.20"
+1062,06/03/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/03/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,16,"$2,856.00",$282.74
+1064,04/03/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/03/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",77,"$87,318.00","$8,993.75"
+1065,04/03/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/03/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,37,"$3,626.00",$344.47
+1067,08/03/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/03/18,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,$487.20,63,"$30,693.60","$3,038.67"
+1070,03/03/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/03/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,48,"$6,720.00",$672.00
+1071,03/03/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/03/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,71,"$39,760.00","$4,135.04"
+1075,10/03/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/03/18,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,$140.00,55,"$7,700.00",$770.00
+1077,10/03/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,$49.00,21,"$1,029.00",$102.90
+1078,11/03/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,$560.00,67,"$37,520.00","$3,789.52"
+1079,01/03/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,$257.60,75,"$19,320.00","$1,932.00"
+1080,28/03/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/03/18,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,$644.00,17,"$10,948.00","$1,127.64"
+1081,04/04/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/04/18,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,$49.00,48,"$2,352.00",$228.14
+1082,12/04/18,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,14/04/18,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,$252.00,74,"$18,648.00","$1,920.74"
+1083,12/04/18,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,14/04/18,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,$644.00,96,"$61,824.00","$5,996.93"
+1084,08/04/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/04/18,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,$128.80,12,"$1,545.60",$159.20
+1085,04/04/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/04/18,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,$128.80,62,"$7,985.60",$822.52
+1086,29/04/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,01/05/18,Empresa de embarque B,Cheque,Chocolate,Dulces,$178.50,35,"$6,247.50",$643.49
+1087,03/04/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/04/18,Empresa de embarque B,Efectivo,Almejas,Sopas,$135.10,95,"$12,834.50","$1,283.45"
+1088,06/04/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/04/18,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,$560.00,17,"$9,520.00",$961.52
+1089,28/04/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/04/18,Empresa de embarque C,Cheque,Café,Bebidas,$644.00,96,"$61,824.00","$6,491.52"
+1090,08/04/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/04/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,83,"$14,815.50","$1,437.10"
+1091,10/04/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/04/18,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,$41.86,88,"$3,683.68",$364.68
+1092,07/04/18,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,59,"$37,996.00","$3,989.58"
+1093,10/04/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/04/18,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,$350.00,27,"$9,450.00",$963.90
+1094,10/04/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/04/18,Empresa de embarque A,,Condimento cajún,Condimentos,$308.00,37,"$11,396.00","$1,196.58"
+1095,10/04/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/04/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,75,"$9,660.00",$966.00
+1096,11/04/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,71,"$3,479.00",$337.46
+1097,11/04/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,88,"$3,683.68",$364.68
+1098,01/04/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,55,"$13,860.00","$1,358.28"
+1099,29/05/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/05/18,Empresa de embarque B,Cheque,Chocolate,Dulces,$178.50,14,"$2,499.00",$237.41
+1100,03/05/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/05/18,Empresa de embarque B,Efectivo,Almejas,Sopas,$135.10,43,"$5,809.30",$592.55
+1101,06/05/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/05/18,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,$560.00,63,"$35,280.00","$3,563.28"
+1102,28/05/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/05/18,Empresa de embarque C,Cheque,Café,Bebidas,$644.00,36,"$23,184.00","$2,318.40"
+1103,08/05/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/05/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,41,"$7,318.50",$761.12
+1104,10/05/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/05/18,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,$41.86,35,"$1,465.10",$143.58
+1105,07/05/18,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,31,"$19,964.00","$1,916.54"
+1106,10/05/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/05/18,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,$350.00,52,"$18,200.00","$1,729.00"
+1107,10/05/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/05/18,Empresa de embarque A,,Condimento cajún,Condimentos,$308.00,30,"$9,240.00",$942.48
+1108,10/05/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/05/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,41,"$5,280.80",$538.64
+1109,11/05/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,44,"$2,156.00",$213.44
+1110,11/05/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,77,"$3,223.22",$322.32
+1111,01/05/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,29,"$7,308.00",$738.11
+1112,01/05/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,77,"$49,588.00","$5,157.15"
+1113,01/05/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,73,"$3,055.78",$305.58
+1114,28/05/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/05/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,74,"$9,997.40",$949.75
+1115,28/05/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/05/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,25,"$6,440.00",$650.44
+1116,09/05/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/05/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,82,"$22,386.00","$2,149.06"
+1117,09/05/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/05/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,37,"$18,026.40","$1,856.72"
+1118,06/05/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/05/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,84,"$16,464.00","$1,580.54"
+1119,08/05/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/05/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,73,"$40,880.00","$3,965.36"
+1120,08/05/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/05/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,51,"$6,568.80",$624.04
+1121,25/05/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/05/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,66,"$9,240.00",$960.96
+1122,26/05/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/05/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,36,"$10,760.40","$1,043.76"
+1123,26/05/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/05/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,87,"$11,753.70","$1,222.38"
+1124,26/05/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/05/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,64,"$16,486.40","$1,615.67"
+1125,29/05/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/05/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,21,"$4,116.00",$432.18
+1126,06/05/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/05/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,19,"$3,391.50",$342.54
+1128,04/05/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/05/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",23,"$26,082.00","$2,738.61"
+1129,04/05/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/05/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,72,"$7,056.00",$726.77
+1131,08/05/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/05/18,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,$487.20,22,"$10,718.40","$1,050.40"
+1134,03/05/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/05/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,82,"$11,480.00","$1,193.92"
+1135,03/05/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/05/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,98,"$54,880.00","$5,762.40"
+1138,07/06/18,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,71,"$45,724.00","$4,343.78"
+1139,10/06/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/06/18,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,$350.00,40,"$14,000.00","$1,470.00"
+1140,10/06/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/06/18,Empresa de embarque A,,Condimento cajún,Condimentos,$308.00,80,"$24,640.00","$2,414.72"
+1141,10/06/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/06/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,38,"$4,894.40",$464.97
+1142,11/06/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,28,"$1,372.00",$144.06
+1143,11/06/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,60,"$2,511.60",$246.14
+1144,01/06/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,33,"$8,316.00",$814.97
+1145,01/06/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,22,"$14,168.00","$1,416.80"
+1146,01/06/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,51,"$2,134.86",$209.22
+1147,28/06/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/06/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,60,"$8,106.00",$802.49
+1148,28/06/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/06/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,98,"$25,244.80","$2,574.97"
+1149,09/06/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/06/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,27,"$7,371.00",$714.99
+1150,09/06/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/06/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,88,"$42,873.60","$4,244.49"
+1151,06/06/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/06/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,65,"$12,740.00","$1,337.70"
+1152,08/06/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/06/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,38,"$21,280.00","$2,085.44"
+1153,08/06/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/06/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,80,"$10,304.00",$989.18
+1154,25/06/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/06/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,49,"$6,860.00",$658.56
+1155,26/06/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/06/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,90,"$26,901.00","$2,609.40"
+1156,26/06/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/06/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,60,"$8,106.00",$834.92
+1157,26/06/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/06/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,39,"$10,046.40","$1,004.64"
+1158,29/06/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,01/07/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,79,"$15,484.00","$1,594.85"
+1159,06/06/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/06/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,44,"$7,854.00",$801.11
+1161,04/06/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/06/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",98,"$111,132.00","$10,779.80"
+1162,04/06/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/06/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,61,"$5,978.00",$591.82
+1164,08/06/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/06/18,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,$487.20,30,"$14,616.00","$1,534.68"
+1167,03/06/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/06/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,24,"$3,360.00",$352.80
+1168,03/06/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/06/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,28,"$15,680.00","$1,536.64"
+1172,10/06/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/06/18,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,$140.00,74,"$10,360.00","$1,004.92"
+1174,10/06/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,$49.00,90,"$4,410.00",$423.36
+1175,11/06/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,$560.00,27,"$15,120.00","$1,557.36"
+1176,01/06/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,$257.60,71,"$18,289.60","$1,920.41"
+1177,28/06/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/06/18,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,$644.00,74,"$47,656.00","$4,765.60"
+1178,09/06/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/06/18,Empresa de embarque A,Cheque,Almejas,Sopas,$135.10,76,"$10,267.60","$1,016.49"
+1179,06/06/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/06/18,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,$178.50,96,"$17,136.00","$1,730.74"
+1180,08/06/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/06/18,Empresa de embarque B,Cheque,Chocolate,Dulces,$178.50,92,"$16,422.00","$1,625.78"
+1181,25/06/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/06/18,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,$308.00,93,"$28,644.00","$2,807.11"
+1182,26/06/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/06/18,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,$350.00,18,"$6,300.00",$598.50
+1183,29/06/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,01/07/18,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,$546.00,98,"$53,508.00","$5,564.83"
+1184,06/06/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/06/18,Empresa de embarque C,Cheque,Peras secas,Frutas secas,$420.00,46,"$19,320.00","$1,893.36"
+1185,06/06/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/06/18,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,$742.00,14,"$10,388.00","$1,038.80"
+1186,04/06/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,,,,Pasta penne,Pasta,$532.00,85,"$45,220.00","$4,476.78"
+1187,03/06/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,,,,Té verde,Bebidas,$41.86,88,"$3,683.68",$357.32
+1188,01/07/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,81,"$3,390.66",$335.68
+1189,28/07/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/07/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,33,"$4,458.30",$423.54
+1190,28/07/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/07/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,47,"$12,107.20","$1,271.26"
+1191,09/07/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/07/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,61,"$16,653.00","$1,731.91"
+1192,09/07/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/07/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,27,"$13,154.40","$1,341.75"
+1193,06/07/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/07/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,84,"$16,464.00","$1,662.86"
+1194,08/07/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/07/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,91,"$50,960.00","$5,045.04"
+1195,08/07/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/07/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,36,"$4,636.80",$482.23
+1196,25/07/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/07/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,34,"$4,760.00",$480.76
+1197,26/07/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/07/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,81,"$24,210.90","$2,493.72"
+1198,26/07/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/07/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,25,"$3,377.50",$327.62
+1199,26/07/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/07/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,12,"$3,091.20",$309.12
+1200,29/07/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/07/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,23,"$4,508.00",$432.77
+1201,06/07/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/07/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,76,"$13,566.00","$1,370.17"
+1203,04/07/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/07/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",55,"$62,370.00","$6,237.00"
+1204,04/07/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/07/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,19,"$1,862.00",$180.61
+1206,08/07/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/07/18,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,$487.20,27,"$13,154.40","$1,249.67"
+1209,03/07/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/07/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,99,"$13,860.00","$1,330.56"
+1210,03/07/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/07/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,10,"$5,600.00",$560.00
+1214,10/07/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/07/18,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,$140.00,80,"$11,200.00","$1,086.40"
+1216,10/07/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,$49.00,27,"$1,323.00",$127.01
+1217,11/07/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,$560.00,97,"$54,320.00","$5,323.36"
+1218,01/07/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,$257.60,42,"$10,819.20","$1,125.20"
+1219,28/07/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/07/18,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,$644.00,24,"$15,456.00","$1,483.78"
+1220,09/07/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/07/18,Empresa de embarque A,Cheque,Almejas,Sopas,$135.10,90,"$12,159.00","$1,167.26"
+1221,06/07/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/07/18,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,$178.50,28,"$4,998.00",$499.80
+1222,28/08/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/08/18,Empresa de embarque C,Cheque,Café,Bebidas,$644.00,28,"$18,032.00","$1,875.33"
+1223,08/08/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/08/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,57,"$10,174.50",$976.75
+1224,10/08/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/08/18,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,$41.86,23,$962.78,$93.39
+1225,07/08/18,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,86,"$55,384.00","$5,593.78"
+1226,10/08/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/08/18,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,$350.00,47,"$16,450.00","$1,628.55"
+1227,10/08/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/08/18,Empresa de embarque A,,Condimento cajún,Condimentos,$308.00,97,"$29,876.00","$3,107.10"
+1228,10/08/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/08/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,96,"$12,364.80","$1,211.75"
+1229,11/08/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,31,"$1,519.00",$151.90
+1230,11/08/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,52,"$2,176.72",$224.20
+1231,01/08/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,91,"$22,932.00","$2,224.40"
+1232,01/08/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,14,"$9,016.00",$892.58
+1233,01/08/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,44,"$1,841.84",$186.03
+1234,28/08/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/08/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,97,"$13,104.70","$1,336.68"
+1235,28/08/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/08/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,80,"$20,608.00","$2,102.02"
+1236,09/08/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/08/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,66,"$18,018.00","$1,855.85"
+1237,09/08/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/08/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,32,"$15,590.40","$1,559.04"
+1238,06/08/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/08/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,52,"$10,192.00","$1,019.20"
+1239,08/08/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/08/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,78,"$43,680.00","$4,455.36"
+1240,08/08/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/08/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,54,"$6,955.20",$688.56
+1241,25/08/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/08/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,55,"$7,700.00",$731.50
+1242,26/08/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/08/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,60,"$17,934.00","$1,811.33"
+1243,26/08/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/08/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,19,"$2,566.90",$243.86
+1244,26/08/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/08/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,66,"$17,001.60","$1,751.16"
+1245,29/08/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/08/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,42,"$8,232.00",$831.43
+1246,06/08/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/08/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,72,"$12,852.00","$1,246.64"
+1248,04/08/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/08/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",32,"$36,288.00","$3,519.94"
+1249,04/08/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/08/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,76,"$7,448.00",$752.25
+1250,10/09/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/09/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,83,"$10,690.40","$1,047.66"
+1251,11/09/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,91,"$4,459.00",$436.98
+1252,11/09/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,64,"$2,679.04",$273.26
+1253,01/09/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,58,"$14,616.00","$1,446.98"
+1254,01/09/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,97,"$62,468.00","$6,496.67"
+1255,01/09/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,14,$586.04,$60.95
+1256,28/09/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/09/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,68,"$9,186.80",$900.31
+1257,28/09/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/09/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,32,"$8,243.20",$824.32
+1258,09/09/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/09/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,48,"$13,104.00","$1,323.50"
+1259,09/09/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/09/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,57,"$27,770.40","$2,721.50"
+1260,06/09/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/09/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,67,"$13,132.00","$1,378.86"
+1261,08/09/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/09/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,48,"$26,880.00","$2,634.24"
+1262,08/09/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/09/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,77,"$9,917.60","$1,011.60"
+1263,25/09/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/09/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,94,"$13,160.00","$1,368.64"
+1264,26/09/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/09/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,54,"$16,140.60","$1,694.76"
+1265,26/09/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/09/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,43,"$5,809.30",$563.50
+1266,26/09/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/09/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,71,"$18,289.60","$1,883.83"
+1267,29/09/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,01/10/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,50,"$9,800.00",$940.80
+1268,06/09/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/09/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,96,"$17,136.00","$1,679.33"
+1270,04/09/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/09/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",54,"$61,236.00","$6,123.60"
+1271,04/09/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/09/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,39,"$3,822.00",$382.20
+1273,08/09/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/09/18,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,$487.20,63,"$30,693.60","$3,222.83"
+1276,03/09/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/09/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,71,"$9,940.00","$1,023.82"
+1277,03/09/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/09/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,88,"$49,280.00","$5,125.12"
+1281,10/09/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/09/18,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,$140.00,59,"$8,260.00",$834.26
+1282,06/10/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/10/18,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,$560.00,94,"$52,640.00","$5,264.00"
+1283,28/10/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/10/18,Empresa de embarque C,Cheque,Café,Bebidas,$644.00,86,"$55,384.00","$5,316.86"
+1284,08/10/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/10/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,61,"$10,888.50","$1,099.74"
+1285,10/10/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/10/18,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,$41.86,32,"$1,339.52",$136.63
+1286,07/10/18,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,62,"$39,928.00","$4,072.66"
+1287,10/10/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/10/18,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,$350.00,60,"$21,000.00","$2,163.00"
+1288,10/10/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/10/18,Empresa de embarque A,,Condimento cajún,Condimentos,$308.00,51,"$15,708.00","$1,539.38"
+1289,10/10/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/10/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,49,"$6,311.20",$624.81
+1290,11/10/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,20,$980.00,$97.02
+1291,11/10/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,49,"$2,051.14",$205.11
+1292,01/10/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,22,"$5,544.00",$532.22
+1293,01/10/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,73,"$47,012.00","$4,748.21"
+1294,01/10/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,85,"$3,558.10",$345.14
+1295,28/10/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/10/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,44,"$5,944.40",$618.22
+1296,28/10/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/10/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,24,"$6,182.40",$599.69
+1297,09/10/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/10/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,64,"$17,472.00","$1,677.31"
+1298,09/10/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/10/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,70,"$34,104.00","$3,444.50"
+1299,06/10/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/10/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,98,"$19,208.00","$1,940.01"
+1300,08/10/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/10/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,48,"$26,880.00","$2,634.24"
+1301,08/10/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/10/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,100,"$12,880.00","$1,275.12"
+1302,25/10/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/10/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,90,"$12,600.00","$1,222.20"
+1303,26/10/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/10/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,49,"$14,646.10","$1,435.32"
+1304,26/10/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/10/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,71,"$9,592.10",$920.84
+1305,26/10/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/10/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,10,"$2,576.00",$267.90
+1306,29/10/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/10/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,78,"$15,288.00","$1,574.66"
+1307,06/10/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/10/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,44,"$7,854.00",$753.98
+1309,04/10/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/10/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",82,"$92,988.00","$9,763.74"
+1310,04/10/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/10/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,29,"$2,842.00",$284.20
+1312,08/10/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/10/18,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,$487.20,93,"$45,309.60","$4,395.03"
+1315,03/10/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/10/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,11,"$1,540.00",$160.16
+1316,03/10/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/10/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,91,"$50,960.00","$5,096.00"
+1320,10/10/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/10/18,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,$140.00,12,"$1,680.00",$173.04
+1322,10/10/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,$49.00,78,"$3,822.00",$382.20
+1323,11/10/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,$560.00,60,"$33,600.00","$3,192.00"
+1324,01/10/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,$257.60,23,"$5,924.80",$610.25
+1325,28/10/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/10/18,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,$644.00,34,"$21,896.00","$2,211.50"
+1326,09/10/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/10/18,Empresa de embarque A,Cheque,Almejas,Sopas,$135.10,89,"$12,023.90","$1,214.41"
+1327,06/10/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/10/18,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,$178.50,82,"$14,637.00","$1,449.06"
+1328,08/10/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/10/18,Empresa de embarque B,Cheque,Chocolate,Dulces,$178.50,43,"$7,675.50",$736.85
+1329,10/11/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/11/18,Empresa de embarque A,,Condimento cajún,Condimentos,$308.00,96,"$29,568.00","$3,104.64"
+1330,10/11/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/11/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,34,"$4,379.20",$437.92
+1331,11/11/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,42,"$2,058.00",$211.97
+1332,11/11/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,100,"$4,186.00",$426.97
+1333,01/11/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,42,"$10,584.00","$1,068.98"
+1334,01/11/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,16,"$10,304.00",$989.18
+1335,01/11/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,22,$920.92,$89.33
+1336,28/11/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/11/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,46,"$6,214.60",$640.10
+1337,28/11/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/11/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,100,"$25,760.00","$2,576.00"
+1338,09/11/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/11/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,87,"$23,751.00","$2,446.35"
+1339,09/11/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/11/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,58,"$28,257.60","$2,882.28"
+1340,06/11/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/11/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,85,"$16,660.00","$1,682.66"
+1341,08/11/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/11/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,28,"$15,680.00","$1,552.32"
+1342,08/11/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/11/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,19,"$2,447.20",$239.83
+1343,25/11/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/11/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,99,"$13,860.00","$1,441.44"
+1344,26/11/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/11/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,69,"$20,624.10","$2,144.91"
+1345,26/11/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/11/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,37,"$4,998.70",$474.88
+1346,26/11/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/11/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,64,"$16,486.40","$1,665.13"
+1347,29/11/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,01/12/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,38,"$7,448.00",$774.59
+1348,06/11/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/11/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,15,"$2,677.50",$259.72
+1350,04/11/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/11/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",52,"$58,968.00","$5,778.86"
+1351,04/11/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/11/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,37,"$3,626.00",$355.35
+1353,08/11/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/11/18,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,$487.20,24,"$11,692.80","$1,122.51"
+1356,03/11/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/11/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,36,"$5,040.00",$519.12
+1357,03/11/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/11/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,24,"$13,440.00","$1,344.00"
+1361,10/11/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/11/18,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,$140.00,20,"$2,800.00",$280.00
+1363,10/11/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,$49.00,11,$539.00,$52.28
+1364,11/11/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,$560.00,78,"$43,680.00","$4,193.28"
+1365,01/11/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,$257.60,76,"$19,577.60","$2,016.49"
+1366,28/11/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/11/18,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,$644.00,57,"$36,708.00","$3,817.63"
+1367,09/11/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/11/18,Empresa de embarque A,Cheque,Almejas,Sopas,$135.10,14,"$1,891.40",$181.57
+1368,27/12/18,27,Empresa AA,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,29/12/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,14,"$2,744.00",$277.14
+1369,27/12/18,27,Empresa AA,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,29/12/18,Empresa de embarque B,Cheque,Ciruelas secas,Frutas secas,$49.00,70,"$3,430.00",$353.29
+1370,04/12/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/12/18,Empresa de embarque A,Tarjeta de crédito,Peras secas,Frutas secas,$420.00,100,"$42,000.00","$4,074.00"
+1371,04/12/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/12/18,Empresa de embarque A,Tarjeta de crédito,Manzanas secas,Frutas secas,$742.00,27,"$20,034.00","$2,003.40"
+1372,04/12/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/12/18,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,$49.00,70,"$3,430.00",$336.14
+1373,12/12/18,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,14/12/18,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,$252.00,57,"$14,364.00","$1,436.40"
+1374,12/12/18,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,14/12/18,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,$644.00,83,"$53,452.00","$5,238.30"
+1375,08/12/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/12/18,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,$128.80,76,"$9,788.80",$939.72
+1376,04/12/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/12/18,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,$128.80,80,"$10,304.00","$1,020.10"
+1377,29/12/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/12/18,Empresa de embarque B,Cheque,Chocolate,Dulces,$178.50,47,"$8,389.50",$830.56
+1378,03/12/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/12/18,Empresa de embarque B,Efectivo,Almejas,Sopas,$135.10,96,"$12,969.60","$1,322.90"
+1379,06/12/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/12/18,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,$560.00,32,"$17,920.00","$1,881.60"
+1380,28/12/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/12/18,Empresa de embarque C,Cheque,Café,Bebidas,$644.00,16,"$10,304.00","$1,030.40"
+1381,08/12/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/12/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,41,"$7,318.50",$717.21
+1382,10/12/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/12/18,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,$41.86,41,"$1,716.26",$180.21
+1383,07/12/18,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,41,"$26,404.00","$2,719.61"
+1384,10/12/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/12/18,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,$350.00,94,"$32,900.00","$3,290.00"
+1385,10/12/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/12/18,Empresa de embarque A,,Condimento cajún,Condimentos,$308.00,20,"$6,160.00",$646.80
+1386,10/12/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/12/18,Empresa de embarque A,,Galletas de chocolate,Productos horneados,$128.80,13,"$1,674.40",$174.14
+1387,11/12/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,$49.00,74,"$3,626.00",$377.10
+1388,11/12/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,$41.86,53,"$2,218.58",$224.08
+1389,01/12/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,$252.00,99,"$24,948.00","$2,444.90"
+1390,01/12/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,$644.00,89,"$57,316.00","$5,445.02"
+1391,01/12/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,$41.86,64,"$2,679.04",$273.26
+1392,28/12/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/12/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,98,"$13,239.80","$1,350.46"
+1393,28/12/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/12/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,86,"$22,153.60","$2,171.05"
+1394,09/12/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/12/18,Empresa de embarque A,Cheque,Ravioli,Pasta,$273.00,20,"$5,460.00",$573.30
+1395,09/12/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/12/18,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,$487.20,69,"$33,616.80","$3,361.68"
+1396,06/12/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/12/18,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,$196.00,68,"$13,328.00","$1,279.49"
+1397,08/12/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/12/18,Empresa de embarque B,Cheque,Salsa curry,Salsas,$560.00,52,"$29,120.00","$2,853.76"
+1398,08/12/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/12/18,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,$128.80,40,"$5,152.00",$540.96
+1399,25/12/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/12/18,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,$140.00,100,"$14,000.00","$1,372.00"
+1400,26/12/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/12/18,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,$298.90,88,"$26,303.20","$2,577.71"
+1401,26/12/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/12/18,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,$135.10,46,"$6,214.60",$596.60
+1402,26/12/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/12/18,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,$257.60,93,"$23,956.80","$2,347.77"
+1403,29/12/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/12/18,Empresa de embarque B,Cheque,Cerveza,Bebidas,$196.00,96,"$18,816.00","$1,975.68"
+1404,06/12/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/12/18,Empresa de embarque C,Cheque,Chocolate,Dulces,$178.50,12,"$2,142.00",$224.91
+1406,04/12/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/12/18,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,"$1,134.00",38,"$43,092.00","$4,093.74"
+1407,04/12/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,06/12/18,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,$98.00,42,"$4,116.00",$407.48
+1409,08/12/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/12/18,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,$487.20,100,"$48,720.00","$4,823.28"
+1412,03/12/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/12/18,Empresa de embarque B,Efectivo,Jarabe,Condimentos,$140.00,89,"$12,460.00","$1,221.08"
+1413,03/12/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,05/12/18,Empresa de embarque B,Efectivo,Salsa curry,Salsas,$560.00,12,"$6,720.00",$651.84
+1417,10/12/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,12/12/18,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,$140.00,97,"$13,580.00","$1,412.32"
+1419,10/12/18,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,$49.00,53,"$2,597.00",$246.72
+1420,11/12/18,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,$560.00,61,"$34,160.00","$3,484.32"
+1421,01/12/18,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,$257.60,45,"$11,592.00","$1,136.02"
+1422,28/12/18,28,Empresa BB,Toluca,Estado de México,Ana del Valle Hinojosa,Centro,30/12/18,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,$644.00,43,"$27,692.00","$2,769.20"
+1423,09/12/18,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,11/12/18,Empresa de embarque A,Cheque,Almejas,Sopas,$135.10,18,"$2,431.80",$231.02
+1424,06/12/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/12/18,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,$178.50,41,"$7,318.50",$709.89
+1425,08/12/18,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,10/12/18,Empresa de embarque B,Cheque,Chocolate,Dulces,$178.50,19,"$3,391.50",$335.76
+1426,25/12/18,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,27/12/18,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,$308.00,65,"$20,020.00","$1,941.94"
+1427,26/12/18,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,28/12/18,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,$350.00,13,"$4,550.00",$450.45
+1428,29/12/18,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,31/12/18,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,$546.00,54,"$29,484.00","$3,007.37"
+1429,06/12/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/12/18,Empresa de embarque C,Cheque,Peras secas,Frutas secas,$420.00,33,"$13,860.00","$1,330.56"
+1430,06/12/18,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,08/12/18,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,$742.00,34,"$25,228.00","$2,598.48"
+1431,04/12/18,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,,,,Pasta penne,Pasta,$532.00,59,"$31,388.00","$3,170.19"
+1432,03/12/18,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,,,,Té verde,Bebidas,$41.86,24,"$1,004.64",$99.46
