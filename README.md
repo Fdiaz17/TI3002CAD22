@@ -1,2 +1,2 @@
-# TC1002SG120
-Semana Tec
+# TI3002C
+Concentración
